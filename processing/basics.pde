@@ -11,6 +11,9 @@ void setup() {
   w = width;
   
 }
+
+// While this has no purpose in staying here, I'll keep it for future reference.
+
 void draw() {
   
   // pencil shape
